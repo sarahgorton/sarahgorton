@@ -1,4 +1,6 @@
-My name is Sarah Gorton and I am a 3rd year college student studying Data Science.
+My name is Sarah Gorton :)
+I like to spend time with friends, family, and in the outdoors.
+Coding for a better world!
 <!---
 sarahgorton/sarahgorton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
